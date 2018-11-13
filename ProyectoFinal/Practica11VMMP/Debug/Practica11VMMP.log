@@ -1,0 +1,14 @@
+﻿  Camera.cpp
+  figuras.cpp
+c:\users\cr7_m\google drive\ingenieria en computacion_\computacion grafica\laboratorio de computacion  grafica\practica11\proyectofinalcg_05_vmmp\practica11vmmp\figuras.cpp(20): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\cr7_m\google drive\ingenieria en computacion_\computacion grafica\laboratorio de computacion  grafica\practica11\proyectofinalcg_05_vmmp\practica11vmmp\figuras.cpp(99): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\cr7_m\google drive\ingenieria en computacion_\computacion grafica\laboratorio de computacion  grafica\practica11\proyectofinalcg_05_vmmp\practica11vmmp\figuras.cpp(152): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\cr7_m\google drive\ingenieria en computacion_\computacion grafica\laboratorio de computacion  grafica\practica11\proyectofinalcg_05_vmmp\practica11vmmp\figuras.cpp(366): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\cr7_m\google drive\ingenieria en computacion_\computacion grafica\laboratorio de computacion  grafica\practica11\proyectofinalcg_05_vmmp\practica11vmmp\figuras.cpp(423): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\cr7_m\google drive\ingenieria en computacion_\computacion grafica\laboratorio de computacion  grafica\practica11\proyectofinalcg_05_vmmp\practica11vmmp\figuras.cpp(440): warning C4101: 'theta': variable local sin referencia
+c:\users\cr7_m\google drive\ingenieria en computacion_\computacion grafica\laboratorio de computacion  grafica\practica11\proyectofinalcg_05_vmmp\practica11vmmp\figuras.cpp(440): warning C4101: 'phi': variable local sin referencia
+c:\users\cr7_m\google drive\ingenieria en computacion_\computacion grafica\laboratorio de computacion  grafica\practica11\proyectofinalcg_05_vmmp\practica11vmmp\figuras.cpp(667): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+  main_prac11new.cpp
+  texture.cpp
+  Generando código...
+  Practica11VMMP.vcxproj -> C:\Users\CR7_m\Google Drive\Ingenieria en Computacion_\Computacion Grafica\Laboratorio de Computacion  Grafica\Practica11\ProyectoFinalCG_05_VMMP\Debug\Practica11VMMP.exe
